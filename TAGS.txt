@@ -1,0 +1,18 @@
+content.data-type.text # Contains text data.
+content.language-formality.formal # Contains formal languages.
+content.language.ar # Contains text in language Arabic / ar.
+content.language.az # Contains text in language Azerbaijani / az.
+content.language.de # Contains text in language German / de.
+content.language.en # Contains text in language English / en.
+content.language.es # Contains text in language Spanish / es.
+content.language.fa # Contains text in language Persian / fa.
+content.language.he # Contains text in language Hebrew / he.
+content.language.hi # Contains text in language Hindi / hi.
+content.language.ko # Contains text in language Korean / ko.
+content.language.tr # Contains text in language Turkish / tr.
+content.language.vi # Contains text in language Vietnamese / vi.
+content.language.zh # Contains text in language Chinese / zh.
+content.multilingual # Contains text in multiple natural languages.
+ml.task.language-modeling # Relates to Language Modeling, a machine learning task.
+ml.task.language-modelling # Relates to Language Modelling, a machine learning task.
+ml.task.text-generation # Relates to Text Generation, a machine learning task.
